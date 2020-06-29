@@ -1,6 +1,6 @@
 # StatAssist & GradBoost
 
-Official PyTorch implementation of [StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch](https://arxiv.org/abs/2006.xxxx) 
+Official PyTorch implementation of [StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch](https://arxiv.org/abs/2006.09679) 
 
 Taehoon Kim<sup>1,2</sup>, YoungJoon Yoo<sup>1</sup>, Jihoon Yang<sup>2</sup><br>
 
@@ -61,5 +61,12 @@ THE SOFTWARE.
 ## How to cite
 
 ```
-
+@misc{kim2020statassist,
+    title={StatAssist & GradBoost: A Study on Optimal INT8 Quantization-aware Training from Scratch},
+    author={Taehoon Kim and Youngjoon Yoo and Jihoon Yang},
+    year={2020},
+    eprint={2006.09679},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
 ```
